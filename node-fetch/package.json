@@ -1,0 +1,11 @@
+{
+  "name": "node-fetch-example",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node send-email.mjs"
+  }
+}
